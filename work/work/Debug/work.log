@@ -1,0 +1,4 @@
+﻿D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1091,5): warning MSB8027: 名为 test.c 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 ..\..\function\function\test.c, test.c。
+  test.c
+D:\daima\work\work\test.c(292): warning C4715: “Pow”: 不是所有的控件路径都返回值
+  work.vcxproj -> D:\daima\work\Debug\work.exe
